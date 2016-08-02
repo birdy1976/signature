@@ -1,0 +1,34 @@
+#!/usr/bin/php
+<?php
+
+include __FILE__.'.php';
+$txt = '';
+
+// Get signature before random part
+foreach ($part1 as $value) {
+	$txt .= $value.''.PHP_EOL;
+}
+
+// https://superuser.com/questions/166387/wget-o-writes-empty-files-on-failure
+exec('curl -f -s '.$feed.' -o '.__FILE__.'.rss');
+$xmlDoc = new DOMDocument();
+$xmlDoc->load(__FILE__.'.rss');
+$xml=$xmlDoc->getElementsByTagName('item');
+
+// Get random part of signature
+$item = rand(0, $randomness);
+$item_title=$xml->item($item)->getElementsByTagName('title')
+	->item(0)->childNodes->item(0)->nodeValue;
+$item_link=$xml->item($item)->getElementsByTagName('link')
+	->item(0)->childNodes->item(0)->nodeValue;
+$txt .= $item_title.': '.$item_link.PHP_EOL;
+
+// Get signature after random part
+foreach ($part2 as $value) {
+	$txt .= $value.PHP_EOL;
+}
+
+$signature = fopen(__FILE__.'.txt', 'w') or die('Unable to write file!');
+fwrite($signature, $txt);
+fclose($signature);
+?>

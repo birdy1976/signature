@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>E-Learning // Multimedia // Online-Medien</title>
+	<atom:link href="https://b76.ch/feed" rel="self" type="application/rss+xml" />
+	<link>https://b76.ch</link>
+	<description>Virtuelle Grüsse, Martin Vögeli :)</description>
+	<lastBuildDate>Sat, 30 Jul 2016 09:44:59 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.3</generator>
+	<item>
+		<title>3D Earth Scene with WebGL</title>
+		<link>https://b76.ch/9392</link>
+		<comments>https://b76.ch/9392#respond</comments>
+		<pubDate>Sat, 30 Jul 2016 08:57:49 +0000</pubDate>
+		<dc:creator><![CDATA[Martin Vögeli]]></dc:creator>
+				<category><![CDATA[Various Courses]]></category>
+		<category><![CDATA[3d]]></category>
+		<category><![CDATA[courses]]></category>
+		<category><![CDATA[developer]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[earth]]></category>
+		<category><![CDATA[futurelearn]]></category>
+		<category><![CDATA[galaxis]]></category>
+		<category><![CDATA[galaxy]]></category>
+		<category><![CDATA[gimp]]></category>
+		<category><![CDATA[grafik]]></category>
+		<category><![CDATA[graphics]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[narcissism]]></category>
+		<category><![CDATA[planet]]></category>
+		<category><![CDATA[scene]]></category>
+		<category><![CDATA[smiley]]></category>
+		<category><![CDATA[smileys]]></category>
+		<category><![CDATA[star]]></category>
+		<category><![CDATA[threejs]]></category>
+		<category><![CDATA[webdesign]]></category>
+		<category><![CDATA[webdev]]></category>
+		<category><![CDATA[webgl]]></category>
+
+		<guid isPermaLink="false">https://b76.ch/?p=9392</guid>
+		<description><![CDATA[We live in times of abundant narcissism, that&#8217;s where the idea for the 3D scene „Planet Smiling Selfie“ came from. The code was provided by the educators of the online course 3D Graphics for Web Developers. I replaced earth’s map with a giant self-made smiley but left earth’s specular map &#38; clouds. Then I created &#8230; <a href="https://b76.ch/9392" class="more-link"><span class="screen-reader-text">&#8222;3D Earth Scene with WebGL&#8220; </span>weiterlesen</a>]]></description>
+				<content:encoded><![CDATA[<p>We live in times of abundant <a href="https://en.wikipedia.org/wiki/Narcissism">narcissism</a>, that&#8217;s where the idea for the 3D scene „Planet Smiling Selfie“ came from. The code was provided by the educators of the online course <a href="https://www.futurelearn.com/courses/3d-graphics-web-programmers/">3D Graphics for Web Developers</a>.</p>
+<figure id="attachment_9393" style="width: 640px" class="wp-caption alignleft"><a href="https://b76.ch/-/2016/3d-graphics-web-programmers/planet-smiling-selfie.html"><img class="size-full wp-image-9393" src="https://b76.ch/wp-content/uploads/3d-scene-planet-smiling-selfie.jpg" alt="3D scene „Planet Smiling Selfie“" width="640" height="480" srcset="https://b76.ch/wp-content/uploads/3d-scene-planet-smiling-selfie.jpg 640w, https://b76.ch/wp-content/uploads/3d-scene-planet-smiling-selfie-300x225.jpg 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></a><figcaption class="wp-caption-text">Click on the image to open the 3D scene „Planet Smiling Selfie“</figcaption></figure>
+<p>I replaced earth’s map with a giant self-made smiley but left <a href="http://planetpixelemporium.com/earth.html">earth’s specular map</a> &amp; clouds. Then I created an <a href="https://www.gimp.org/tutorials/Custom_Brushes/">animated brush for GIMP</a> and painted the starfield with a lot of smileys. Sounds easy enough <img src="https://s.w.org/images/core/emoji/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://b76.ch/9392/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Designing a Space in 3D (Task)</title>
+		<link>https://b76.ch/9383</link>
+		<comments>https://b76.ch/9383#respond</comments>
+		<pubDate>Fri, 15 Jul 2016 22:58:14 +0000</pubDate>
+		<dc:creator><![CDATA[Martin Vögeli]]></dc:creator>
+				<category><![CDATA[Explore Animation]]></category>
+		<category><![CDATA[3d]]></category>
+		<category><![CDATA[animated]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[animationen]]></category>
+		<category><![CDATA[animations]]></category>
+		<category><![CDATA[audacity]]></category>
+		<category><![CDATA[blender]]></category>
+		<category><![CDATA[camera]]></category>
+		<category><![CDATA[credits]]></category>
+		<category><![CDATA[futurelearn]]></category>
+		<category><![CDATA[gimp]]></category>
+		<category><![CDATA[imagemagick]]></category>
+		<category><![CDATA[infografik]]></category>
+		<category><![CDATA[infographic]]></category>
+		<category><![CDATA[lighting]]></category>
+		<category><![CDATA[openclipartlibrary]]></category>
+		<category><![CDATA[opensource]]></category>
+		<category><![CDATA[titanic]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">https://b76.ch/?p=9383</guid>
+		<description><![CDATA[For the 3D animation „Titanic&#8217;s Victims – Echoes from the Sea Floor“ I imagined a remote-controlled submarine with a spotlight transmitting noisy video &#38; spooky sounds from the ancient sunken passenger ship. Download the original video file for better (noise) quality! This is my first Blender project, so I had to learn a few things, &#8230; <a href="https://b76.ch/9383" class="more-link"><span class="screen-reader-text">&#8222;Designing a Space in 3D (Task)&#8220; </span>weiterlesen</a>]]></description>
+				<content:encoded><![CDATA[<p>For the 3D animation „Titanic&#8217;s Victims – Echoes from the Sea Floor“ I imagined a remote-controlled submarine with a spotlight transmitting noisy video &amp; spooky sounds from the ancient sunken passenger ship.</p>
+<p><iframe width="840" height="473" src="https://www.youtube.com/embed/QOXeri4X8Ls?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<blockquote><p><a href="https://dl.dropboxusercontent.com/u/59040135/2016/Titanic's%20Victims%20%E2%80%93%20Echoes%20from%20the%20Sea%20Floor.mp4">Download the original video file for better (noise) quality!</a></p></blockquote>
+<p>This is my first Blender project, so I had to learn a few things, e.g. <a href="https://tinyurl.com/hyba9ob">how to make a camera follow a path</a> or how to control the lighting. The <a href="http://www.giudansky.com/design/51-blender-map">Blender infographic map</a> smoothed the way for me – thank you very much!</p>
+<p>Title &amp; credits was created with the image editing program GIMP and the graphics <a href="https://openclipart.org/detail/10878/seizings-hitches-splices-bends-and-knots">knot</a> &amp; <a href="https://openclipart.org/detail/1662/seahorse-silhouette">seahorse</a> form openclipart.org. I took the 3D models (<a href="http://archive3d.net/?a=download&amp;id=9ef2c603">gramophone</a>, <a href="http://archive3d.net/?a=download&amp;id=b54d6faf">shoes</a>, <a href="http://archive3d.net/?a=download&amp;id=f26a2470">cello</a>, <a href="http://archive3d.net/?a=download&amp;id=19be8e29">rocking horse</a> &amp; <a href="http://archive3d.net/?a=download&amp;id=bee1f700">bell</a>) from archive3d.net.</p>
+<p>The choral <a href="https://commons.wikimedia.org/wiki/File:Homocord-b367-m17234.ogg">Näher, mein Gott, zu Dir</a> is in the public domain, the free sound effects are from YouTube&#8217;s <a href="https://www.youtube.com/audiolibrary/soundeffects">Audio Library</a>. Audio editing &amp; mixing was done with Audacity – like Blender &amp; GIMP a free software!</p>
+<p><code># Add Gaussian noise to the images<br />
+for i in *.png; do convert +noise Gaussian $i $i; done<br />
+# Merge images to video (16000k with Gaussian noise)<br />
+avconv -framerate 24 -i %04d.png -b 5000k video.mp4<br />
+# Combine video and audio to one file<br />
+avconv -i video.mp4 -i audio.m4a -c copy video+audio.mp4</code></p>
+<p>PS: YouTube offers a page with <a href="https://support.google.com/youtube/answer/1722171">recommended upload encoding settings</a> (container: MP4, audio codec: AAC-LC and video codec: H.264). It also suggests appropriate frame rate, bitrate, resolution and aspect ratio.</p>
+<p>PPS: The course instructors curate 3D animations in this <a href="https://www.youtube.com/playlist?playnext=1&amp;list=PLLkro58_Qc97lH0pL2y48n8cCsWpZYdAs">playlist</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://b76.ch/9383/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://commons.wikimedia.org/wiki/File:Homocord-b367-m17234.ogg" length="9543" type="audio/ogg" />
+<enclosure url="https://dl.dropboxusercontent.com/u/59040135/2016/Titanic's%20Victims%20%E2%80%93%20Echoes%20from%20the%20Sea%20Floor.mp4" length="96365523" type="video/mp4" />
+		</item>
+		<item>
+		<title>Switching from LastPass to Firefox Sync</title>
+		<link>https://b76.ch/9379</link>
+		<comments>https://b76.ch/9379#respond</comments>
+		<pubDate>Tue, 12 Jul 2016 13:27:34 +0000</pubDate>
+		<dc:creator><![CDATA[Martin Vögeli]]></dc:creator>
+				<category><![CDATA[Various Courses]]></category>
+		<category><![CDATA[addon]]></category>
+		<category><![CDATA[bookmark]]></category>
+		<category><![CDATA[bookmarking]]></category>
+		<category><![CDATA[bookmarks]]></category>
+		<category><![CDATA[challenge]]></category>
+		<category><![CDATA[cyber]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[futurelearn]]></category>
+		<category><![CDATA[lastpass]]></category>
+		<category><![CDATA[manager]]></category>
+		<category><![CDATA[migrate]]></category>
+		<category><![CDATA[migrating]]></category>
+		<category><![CDATA[migration]]></category>
+		<category><![CDATA[mobil]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[password]]></category>
+		<category><![CDATA[passwort]]></category>
+		<category><![CDATA[pocket]]></category>
+		<category><![CDATA[security]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[sync]]></category>
+
+		<guid isPermaLink="false">https://b76.ch/?p=9379</guid>
+		<description><![CDATA[I use my tablet more often recently, so I need my passwords on more than one device… I seized the opportunity to quit my password manager LastPass and switch to Firefox Sync (free software). LastPass offers a „Security Challenge“ which I employed to identify and change weak passwords during the migration – logging into all &#8230; <a href="https://b76.ch/9379" class="more-link"><span class="screen-reader-text">&#8222;Switching from LastPass to Firefox Sync&#8220; </span>weiterlesen</a>]]></description>
+				<content:encoded><![CDATA[<p>I use my tablet more often recently, so I need my passwords on more than one device… I seized the opportunity to quit my password manager LastPass and switch to <a href="https://www.mozilla.org/en-GB/firefox/sync/">Firefox Sync</a> (free software).</p>
+<p>LastPass offers a „Security Challenge“ which I employed to identify and change weak passwords during the migration – logging into all of my accounts and accepting Firefox to store the passwords…</p>
+<p>I started with 367 accounts but many online services are no more, so the number went down to 223. Amazing, how many online services seemed useful at the time and I simply forgot about them!</p>
+<p>Firefox Sync also handles bookmarks, so I imported all of my 6003 bookmarks from <a href="https://del.icio.us/voma">del.icio.us</a> and <a href="https://www.diigo.com/user/birdy1976">Diigo</a>. Afterwards I let the Firefox add-on <a href="https://addons.mozilla.org/en-US/firefox/addon/imacros-for-firefox/">iMacros</a> delete them from the social bookmarking sites.</p>
+<p>Finally, I activated <a href="https://getpocket.com/firefox/">Pocket for Firefox</a>: „Click the Pocket button in your Firefox toolbar to save articles, videos, pages, and more. You can view them later in Pocket on any device.“ What’s next?</p>
+]]></content:encoded>
+			<wfw:commentRss>https://b76.ch/9379/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pixilation Task Revisited</title>
+		<link>https://b76.ch/9373</link>
+		<comments>https://b76.ch/9373#respond</comments>
+		<pubDate>Fri, 08 Jul 2016 00:17:28 +0000</pubDate>
+		<dc:creator><![CDATA[Martin Vögeli]]></dc:creator>
+				<category><![CDATA[Explore Animation]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[command]]></category>
+		<category><![CDATA[commands]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[futurelearn]]></category>
+		<category><![CDATA[imagemagick]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[movie]]></category>
+		<category><![CDATA[pixilation]]></category>
+		<category><![CDATA[stopmotion]]></category>
+		<category><![CDATA[ubuntu]]></category>
+		<category><![CDATA[yoga]]></category>
+
+		<guid isPermaLink="false">https://b76.ch/?p=9373</guid>
+		<description><![CDATA[For „Yogilation – A Pixelated Yogi in Pixilation“ I videotaped myself practicing yoga and extracted the relevant frames with VLC (hotkeys „e“ for frame by frame navigation and „Ctrl+s“ for snapshot). I recycled the accordion music from my „Pixilation Task“, reversed it and applied the effect „Paulstretch“ with Audacity. For the graphical effects (brightness, contrast &#8230; <a href="https://b76.ch/9373" class="more-link"><span class="screen-reader-text">&#8222;Pixilation Task Revisited&#8220; </span>weiterlesen</a>]]></description>
+				<content:encoded><![CDATA[<p>For „Yogilation – A Pixelated Yogi in Pixilation“ I videotaped myself practicing yoga and extracted the relevant frames with VLC (hotkeys „e“ for frame by frame navigation and „Ctrl+s“ for snapshot).</p>
+<p><iframe width="840" height="473" src="https://www.youtube.com/embed/3idD_gCWbyk?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>I recycled the accordion music from my „<a href="https://b76.ch/9369">Pixilation Task</a>“, reversed it and applied the effect „Paulstretch“ with Audacity. For the graphical effects (brightness, contrast and pixelation) I used the command-line:</p>
+<p><code># Apply brightness and contrast to each frame<br />
+for i in *.png; do convert -brightness-contrast 11x22 $i $i; done<br />
+# Apply the pixelation effect to each frame<br />
+for i in *.png; do convert -scale 10% -scale 1000% $i $i; done<br />
+# Merge individual frames to video<br />
+avconv -framerate 12 -f image2 -i %04d.png -b 16000k video.mov </code></p>
+]]></content:encoded>
+			<wfw:commentRss>https://b76.ch/9373/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pixilation Task</title>
+		<link>https://b76.ch/9369</link>
+		<comments>https://b76.ch/9369#respond</comments>
+		<pubDate>Mon, 04 Jul 2016 15:57:26 +0000</pubDate>
+		<dc:creator><![CDATA[Martin Vögeli]]></dc:creator>
+				<category><![CDATA[Explore Animation]]></category>
+		<category><![CDATA[accordion]]></category>
+		<category><![CDATA[akkordeon]]></category>
+		<category><![CDATA[akkordeonist]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[command]]></category>
+		<category><![CDATA[commands]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[futurelearn]]></category>
+		<category><![CDATA[imagemagick]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[movie]]></category>
+		<category><![CDATA[pixilation]]></category>
+		<category><![CDATA[playlist]]></category>
+		<category><![CDATA[principle]]></category>
+		<category><![CDATA[ubuntu]]></category>
+
+		<guid isPermaLink="false">https://b76.ch/?p=9369</guid>
+		<description><![CDATA[For the pixilation „Accordilation – Accordion in Pixilation“ I videotaped myself playing accordion, grabbed four frames per second, added a title, applied a charcoal filter and merged the frames to video again. The course instructors curate pixilation animations in this playlist. I used the command-line interface (with a little help for ImageMagick and Libav) on &#8230; <a href="https://b76.ch/9369" class="more-link"><span class="screen-reader-text">&#8222;Pixilation Task&#8220; </span>weiterlesen</a>]]></description>
+				<content:encoded><![CDATA[<p>For the pixilation „Accordilation – Accordion in Pixilation“ I videotaped myself playing accordion, grabbed four frames per second, added a title, applied a charcoal filter and merged the frames to video again.</p>
+<p><iframe width="840" height="473" src="https://www.youtube.com/embed/4Otc-B4VZj0?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>The course instructors curate pixilation animations in this <a href="https://www.youtube.com/watch?v=betlnSCKpEE&amp;list=PLLkro58_Qc95Iybeg9pUFueDhD-HJ5hSY">playlist</a>. I used the command-line interface (with a little help for <a href="http://www.imedias.ch/myUploadData/files/imagemagick-Lernstick.pdf">ImageMagick</a> and <a href="https://wiki.libav.org/Snippets/avconv">Libav</a>) on my laptop with <a href="https://ubuntu.com/">Ubuntu</a>. The commands I’ve executed:</p>
+<p><code># Grab four frames per second<br />
+avconv -i videotape.mp4 -vsync 1 -r 4 -an -y -qscale 1 %04d.jpg<br />
+# Extract the audio<br />
+avconv -i videotape.mp4 -c:a copy -vn -y audio.aac<br />
+# Apply a charcoal filter to each frame<br />
+for i in *.jpg; do convert $i -charcoal 2 $i; done<br />
+# Merge individual frames to video<br />
+avconv -framerate 4 -f image2 -i %04d.jpg -b 65536k video.mov<br />
+# Combine video and audio<br />
+avconv -i video.mov -i audio.aac -c copy video+audio.mov</code></p>
+]]></content:encoded>
+			<wfw:commentRss>https://b76.ch/9369/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cel Animation Task</title>
+		<link>https://b76.ch/9363</link>
+		<comments>https://b76.ch/9363#respond</comments>
+		<pubDate>Sun, 26 Jun 2016 22:47:10 +0000</pubDate>
+		<dc:creator><![CDATA[Martin Vögeli]]></dc:creator>
+				<category><![CDATA[Explore Animation]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[futurelearn]]></category>
+		<category><![CDATA[move]]></category>
+		<category><![CDATA[movement]]></category>
+		<category><![CDATA[movie]]></category>
+		<category><![CDATA[playlist]]></category>
+		<category><![CDATA[principle]]></category>
+
+		<guid isPermaLink="false">https://b76.ch/?p=9363</guid>
+		<description><![CDATA[For the cel animation „Walk Wait Wave“ I used the Stick Fighter app on my tablet for the stick figures and the video editor Quik to add the title as well as a nice background music: FilmoraGo is another good video editor, but it adds its name at the end of the video. The course instructors found &#8230; <a href="https://b76.ch/9363" class="more-link"><span class="screen-reader-text">&#8222;Cel Animation Task&#8220; </span>weiterlesen</a>]]></description>
+				<content:encoded><![CDATA[<p>For the cel animation „Walk Wait Wave“ I used the <a href="https://play.google.com/store/apps/details?id=com.tweber.stickfighter.activities">Stick Fighter</a> app on my tablet for the stick figures and the video editor <a href="https://play.google.com/store/apps/details?id=com.stupeflix.replay">Quik</a> to add the title as well as a nice background music:</p>
+<p><iframe width="840" height="473" src="https://www.youtube.com/embed/dEB-m54m9Wg?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.wondershare.filmorago">FilmoraGo</a> is another good video editor, but it adds its name at the end of the video. The course instructors found this helpful video of the <a href="https://www.youtube.com/watch?v=2y6aVz0Acx0">walk cycle</a> and curate cel animations in this <a href="https://www.youtube.com/playlist?playnext=1&amp;list=PLLkro58_Qc97i-Pb52xtBC3mf5HAH1Bk9">playlist</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://b76.ch/9363/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Stop Motion Task</title>
+		<link>https://b76.ch/9355</link>
+		<comments>https://b76.ch/9355#respond</comments>
+		<pubDate>Sat, 25 Jun 2016 20:40:15 +0000</pubDate>
+		<dc:creator><![CDATA[Martin Vögeli]]></dc:creator>
+				<category><![CDATA[Explore Animation]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[futurelearn]]></category>
+		<category><![CDATA[lego]]></category>
+		<category><![CDATA[move]]></category>
+		<category><![CDATA[movement]]></category>
+		<category><![CDATA[movie]]></category>
+		<category><![CDATA[playlist]]></category>
+		<category><![CDATA[principle]]></category>
+		<category><![CDATA[stopmotion]]></category>
+
+		<guid isPermaLink="false">https://b76.ch/?p=9355</guid>
+		<description><![CDATA[For the stop motion animation „Cubing“ I set up my desk with three lamps for lighting, my laptop as background and a tablet with the Stop-Motion Movie Creator app for production: FutureLearn is a social learning environment at its heart – here are some social media tips and tools for social learners. The course instructors curate &#8230; <a href="https://b76.ch/9355" class="more-link"><span class="screen-reader-text">&#8222;Stop Motion Task&#8220; </span>weiterlesen</a>]]></description>
+				<content:encoded><![CDATA[<p>For the stop motion animation „Cubing“ I set up my desk with three lamps for lighting, my laptop as background and a tablet with the <a href="https://play.google.com/store/apps/details?id=com.mattel.MCSMMC">Stop-Motion Movie Creator</a> app for production:</p>
+<p><iframe width="840" height="473" src="https://www.youtube.com/embed/n3c7BAu42mY?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>FutureLearn is a social learning environment at its heart – here are some <a href="https://about.futurelearn.com/about/faq/social-media-tips/">social media tips and tools</a> for social learners. The course instructors curate stop motion animations in this <a href="https://www.youtube.com/watch?v=BrOtUqeIlJQ&amp;list=PLLkro58_Qc95clCjOF7qPiUeDljBDvCgm">playlist</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://b76.ch/9355/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Flip Book Task</title>
+		<link>https://b76.ch/9348</link>
+		<comments>https://b76.ch/9348#respond</comments>
+		<pubDate>Sat, 25 Jun 2016 08:27:14 +0000</pubDate>
+		<dc:creator><![CDATA[Martin Vögeli]]></dc:creator>
+				<category><![CDATA[Explore Animation]]></category>
+		<category><![CDATA[animation]]></category>
+		<category><![CDATA[flip-book]]></category>
+		<category><![CDATA[futurelearn]]></category>
+		<category><![CDATA[gif]]></category>
+		<category><![CDATA[gimp]]></category>
+		<category><![CDATA[playlist]]></category>
+		<category><![CDATA[principle]]></category>
+		<category><![CDATA[stopmotion]]></category>
+
+		<guid isPermaLink="false">http://b76.ch/?p=9348</guid>
+		<description><![CDATA[My submission for the online course Explore Animation. I used GIMP to stitch together the individual pictures, reduce the number of colours and resize the final GIF animation: Thomas and Johnston’s twelve principles of animation are illustrated well by this video and also in these animations. The course instructors curate flipbooks in this playlist.]]></description>
+				<content:encoded><![CDATA[<p>My submission for the online course <a href="https://www.futurelearn.com/courses/explore-animation">Explore Animation</a>. I used GIMP to stitch together the individual pictures, reduce the number of colours and resize the final GIF animation:</p>
+<figure id="attachment_9349" style="width: 640px" class="wp-caption alignleft"><a href="https://b76.ch/wp-content/uploads/flip-book-bouncing-ball.gif"><img class="wp-image-9349 size-full" src="https://b76.ch/wp-content/uploads/flip-book-bouncing-ball.gif" alt="Flip Book (Bouncing Ball)" width="640" height="480" /></a><figcaption class="wp-caption-text">Flip Book (Bouncing Ball)</figcaption></figure>
+<p>Thomas and Johnston’s twelve principles of animation are illustrated well by this <a title="video" href="https://vimeo.com/93206523">video</a> and also in these <a class="" title="gifs" href="http://the12principles.tumblr.com/">animations</a>. The course instructors curate flipbooks in this <a class="" title="YouTube playlist" href="https://www.youtube.com/playlist?playnext=1&amp;list=PLLkro58_Qc96NK93_YOHsd0jC_vnFA2FU">playlist</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://b76.ch/9348/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hacker&#8217;s Digest – Don&#8217;t Panic</title>
+		<link>https://b76.ch/9339</link>
+		<comments>https://b76.ch/9339#respond</comments>
+		<pubDate>Sat, 11 Jun 2016 11:17:31 +0000</pubDate>
+		<dc:creator><![CDATA[Martin Vögeli]]></dc:creator>
+				<category><![CDATA[Sport & Kultur]]></category>
+		<category><![CDATA[Vorträge]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[buch]]></category>
+		<category><![CDATA[cosin]]></category>
+		<category><![CDATA[hacker]]></category>
+		<category><![CDATA[literatur]]></category>
+		<category><![CDATA[literature]]></category>
+
+		<guid isPermaLink="false">http://b76.ch/?p=9339</guid>
+		<description><![CDATA[Ich lese viel und gerne… Hier präsentiere ich einige meiner aktuellen Favoriten in al­pha­be­tischer Reihenfolge – und bin gespannt auf Tipps und Kommentare von euch! Romane Accelerando (Charles Stross) Harry Potter and the Methods of Rationality (Eliezer Yudkowsky) Homo Faber (Max Frisch) Millennium (series) (Stieg Larsson &#38; David Lagercrantz) Off to Be the Wizard (Scott Meyer) Ready Player One &#38; &#8230; <a href="https://b76.ch/9339" class="more-link"><span class="screen-reader-text">&#8222;Hacker&#8217;s Digest – Don&#8217;t Panic&#8220; </span>weiterlesen</a>]]></description>
+				<content:encoded><![CDATA[<p>Ich lese viel und gerne… Hier <a href="https://www.cosin.ch/fahrplan/2016/events/7717.html">präsentiere</a> ich einige meiner aktuellen Favoriten in al­pha­be­tischer Reihenfolge – und bin gespannt auf Tipps und Kommentare von euch!</p>
+<h3>Romane</h3>
+<ul>
+<li>Accelerando (Charles Stross)</li>
+<li>Harry Potter and the Methods of Rationality (Eliezer Yudkowsky)</li>
+<li>Homo Faber (Max Frisch)</li>
+<li>Millennium (series) (Stieg Larsson &amp; David Lagercrantz)</li>
+<li>Off to Be the Wizard (Scott Meyer)</li>
+<li>Ready Player One &amp; Armada (Ernest Cline)</li>
+<li>The Circle (Dave Eggers)</li>
+<li>The Hitchhiker&#8217;s Guide to the Galaxy (series) (Douglas Adams)</li>
+<li>The Martian (Andy Weir)</li>
+<li>The Once and Future King (T. H. White)</li>
+</ul>
+<p>Lesetipps von den Teilnehmern:</p>
+<ul>
+<li>Daemon (series) (Daniel Suarez)</li>
+<li>Der aufrechte Mann (Davide Longo)</li>
+<li>Dirk Gently&#8217;s Holistic Detective Agency &amp; The Long Dark Tea-Time of the Soul (Douglas Adams)</li>
+<li>Rainbows End (Vernor Vinge)</li>
+<li>Starfish (Peter Watts)</li>
+<li>The Futurological Congress (Stanisław Lem)</li>
+</ul>
+<h3>Sachbücher</h3>
+<ul>
+<li>A Short History of Nearly Everything</li>
+<li>For the Love of Physics</li>
+<li>What If?: Serious Scientific Answers to Absurd Hypothetical Questions</li>
+</ul>
+<p>Lesetipps von den Teilnehmern:</p>
+<ul>
+<li>Code Complete: A Practical Handbook of Software Construction (Steve McConnell)</li>
+<li>Packing for Mars: The Curious Science of Life in the Void (DE: Was macht der Astronaut, wenn er mal muss?) (Mary Roach)</li>
+<li>Thing Explainer: Complicated Stuff in Simple Words (Randall Munroe)</li>
+<li>Weniger schlecht programmieren (Kathrin Passig &amp; Johannes Jander)</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>https://b76.ch/9339/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Wo man singt, da lass dich ruhig nieder #002</title>
+		<link>https://b76.ch/9332</link>
+		<comments>https://b76.ch/9332#comments</comments>
+		<pubDate>Mon, 01 Feb 2016 07:48:03 +0000</pubDate>
+		<dc:creator><![CDATA[Martin Vögeli]]></dc:creator>
+				<category><![CDATA[Sport & Kultur]]></category>
+		<category><![CDATA[akkordeon]]></category>
+		<category><![CDATA[akkordeonist]]></category>
+		<category><![CDATA[augenblick]]></category>
+		<category><![CDATA[handorgel]]></category>
+		<category><![CDATA[konzert]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[musik]]></category>
+		<category><![CDATA[musiker]]></category>
+		<category><![CDATA[oberwinterthur]]></category>
+		<category><![CDATA[singen]]></category>
+		<category><![CDATA[winterthur]]></category>
+
+		<guid isPermaLink="false">http://b76.ch/?p=9332</guid>
+		<description><![CDATA[Begleitet von Martin Vögeli am Akkordeon Sa, 20. Februar 2016, 19 Uhr, Kaffee Augenblick Winterthur, Hohlandstr. 1, 079 306 47 44 PS: Der Flyer (PDF) mit den gleichen Angaben dazu 😉]]></description>
+				<content:encoded><![CDATA[<blockquote><p>Begleitet von Martin Vögeli am Akkordeon<br />
+Sa, 20. Februar 2016, 19 Uhr, <a href="http://kaffee-augenblick.ch/">Kaffee Augenblick</a><br />
+Winterthur, Hohlandstr. 1, 079 306 47 44</p></blockquote>
+<p>PS: Der <a href="https://b76.ch/wp-content/uploads/Wo-man-singt-da-lass-dich-ruhig-nieder-2016-02-20.pdf">Flyer (PDF)</a> mit den gleichen Angaben dazu <img src="https://s.w.org/images/core/emoji/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://b76.ch/9332/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>
